@@ -172,5 +172,4 @@ EDA is the compass and foundation of any reliable data science project. Far more
 
 This analysis has walked through the core steps of EDA using real Bitcoin transactions, showing how even a beginner with Pandas can extract meaningful insights from complex data. Whether you're a novice building your first notebook or a blockchain analyst decoding crypto flows, remember that the journey should always begin with rigorous EDA.
 
-t is the critical intersection where curiosity meets clarity, and where a skeptical, investigative mindset transforms raw, messy data into trustworthy, actionable insights.
-Start with EDA and you set yourself on the path to genuinely informed decisions.
+It is the critical intersection where curiosity meets clarity, and where a skeptical, investigative mindset transforms raw, messy data into trustworthy, actionable insights. Start with EDA and you set yourself on the path to genuinely informed decisions.
