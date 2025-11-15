@@ -3,7 +3,7 @@
 
 #### Author: Heidi Zhang
 
----
+
 
 ## What is EDA?
 
@@ -11,7 +11,7 @@ Exploratory Data Analysis (EDA) is the first and often most revealing step in an
 
 > **Think of EDA as "getting to know your data"**, like reading the first few chapters of a book before deciding how the story should be told.
 
----
+
 
 ## Why Does EDA Matter?
 
@@ -27,7 +27,7 @@ With a thorough EDA, hidden trends are not missed. It helps you uncover:
 - Surprising relationships
 - New hypotheses for further testing
 
----
+
 
 ## Application of EDA to a Bitcoin Transactions Dataset
 
@@ -35,7 +35,7 @@ Let’s explore a public dataset from Kaggle: [Crypto Transactions in 2025 (Marc
 
 Bitcoin is often considered simpler and safer for a beginner’s first dive into crypto. Ethereum, by contrast, is inherently more complex—designed as a programmable platform, with complexity most visible in **Gas Prices** and **Smart Contracts**. Since this is a beginner’s guide, we’ll focus exclusively on Bitcoin.
 
----
+
 
 ### Step 1 – Data Overview & Preprocessing
 
@@ -148,7 +148,7 @@ Observation:
 - Near-equal split is a positive signal: no single entity dominates block production.
 - An analyst should know that mining pools control transaction validation and new block creation, as their distribution affects fee dynamics and decentralization. 
 
---- 
+
 
 ## Potential Next Steps
 The dataset used in this analysis, despite its high rating on Kaggle and a label asserting 100% credibility, exhibited a few data quality red flags during inspection, including clear instances of mis-labeled columns. Due to time constraints, I was unable to perform a full validation.
@@ -165,7 +165,7 @@ For those interested in expanding this work, the next steps for EDA could includ
 
 - Feature Engineering: before applying machine learning models, categorical features like `Mining_Pool` should be converted into numerical representations, typically via one-hot encoding.
 
---- 
+
 
 ## Conclusion: EDA Is Not Optional — It’s Essential
 EDA is the compass and foundation of any reliable data science project. Far more than a routine data-cleaning step, it illuminates the dataset by exposing its structure, uncovering hidden issues, and revealing subtle patterns long before modeling begins.
